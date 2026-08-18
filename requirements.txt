@@ -1,0 +1,27 @@
+openai
+python-dotenv
+google-genai
+google
+ipykernel
+jupyter
+certifi
+truststore
+groq>=0.29.0,<1
+langchain
+langchain-groq 
+langsmith 
+huggingface-hub
+langchain-huggingface
+
+langchain-aws
+langchain-openai
+
+langchain-ollama
+
+# langchain-tavily
+
+langchain-community
+tavily-python
+langgraph-checkpoint-sqlite
+langgraph
+fastmcp
